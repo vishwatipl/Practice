@@ -1,0 +1,14 @@
+D:\vishwa C#\vishwa\vishwa\bin\Debug\netcoreapp3.1\vishwa.exe
+D:\vishwa C#\vishwa\vishwa\bin\Debug\netcoreapp3.1\vishwa.deps.json
+D:\vishwa C#\vishwa\vishwa\bin\Debug\netcoreapp3.1\vishwa.runtimeconfig.json
+D:\vishwa C#\vishwa\vishwa\bin\Debug\netcoreapp3.1\vishwa.runtimeconfig.dev.json
+D:\vishwa C#\vishwa\vishwa\bin\Debug\netcoreapp3.1\vishwa.dll
+D:\vishwa C#\vishwa\vishwa\bin\Debug\netcoreapp3.1\vishwa.pdb
+D:\vishwa C#\vishwa\vishwa\obj\Debug\netcoreapp3.1\vishwa.csproj.AssemblyReference.cache
+D:\vishwa C#\vishwa\vishwa\obj\Debug\netcoreapp3.1\vishwa.GeneratedMSBuildEditorConfig.editorconfig
+D:\vishwa C#\vishwa\vishwa\obj\Debug\netcoreapp3.1\vishwa.AssemblyInfoInputs.cache
+D:\vishwa C#\vishwa\vishwa\obj\Debug\netcoreapp3.1\vishwa.AssemblyInfo.cs
+D:\vishwa C#\vishwa\vishwa\obj\Debug\netcoreapp3.1\vishwa.csproj.CoreCompileInputs.cache
+D:\vishwa C#\vishwa\vishwa\obj\Debug\netcoreapp3.1\vishwa.dll
+D:\vishwa C#\vishwa\vishwa\obj\Debug\netcoreapp3.1\vishwa.pdb
+D:\vishwa C#\vishwa\vishwa\obj\Debug\netcoreapp3.1\vishwa.genruntimeconfig.cache

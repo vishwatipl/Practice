@@ -1,0 +1,7 @@
+D:\vishwa C#\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+D:\vishwa C#\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+D:\vishwa C#\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+D:\vishwa C#\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.AssemblyReference.cache
+D:\vishwa C#\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.CoreCompileInputs.cache
+D:\vishwa C#\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+D:\vishwa C#\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.pdb

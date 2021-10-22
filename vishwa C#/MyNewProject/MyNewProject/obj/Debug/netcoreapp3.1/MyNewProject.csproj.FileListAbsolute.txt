@@ -1,0 +1,14 @@
+D:\vishwa C#\MyNewProject\MyNewProject\bin\Debug\netcoreapp3.1\MyNewProject.exe
+D:\vishwa C#\MyNewProject\MyNewProject\bin\Debug\netcoreapp3.1\MyNewProject.deps.json
+D:\vishwa C#\MyNewProject\MyNewProject\bin\Debug\netcoreapp3.1\MyNewProject.runtimeconfig.json
+D:\vishwa C#\MyNewProject\MyNewProject\bin\Debug\netcoreapp3.1\MyNewProject.runtimeconfig.dev.json
+D:\vishwa C#\MyNewProject\MyNewProject\bin\Debug\netcoreapp3.1\MyNewProject.dll
+D:\vishwa C#\MyNewProject\MyNewProject\bin\Debug\netcoreapp3.1\MyNewProject.pdb
+D:\vishwa C#\MyNewProject\MyNewProject\obj\Debug\netcoreapp3.1\MyNewProject.csproj.AssemblyReference.cache
+D:\vishwa C#\MyNewProject\MyNewProject\obj\Debug\netcoreapp3.1\MyNewProject.GeneratedMSBuildEditorConfig.editorconfig
+D:\vishwa C#\MyNewProject\MyNewProject\obj\Debug\netcoreapp3.1\MyNewProject.AssemblyInfoInputs.cache
+D:\vishwa C#\MyNewProject\MyNewProject\obj\Debug\netcoreapp3.1\MyNewProject.AssemblyInfo.cs
+D:\vishwa C#\MyNewProject\MyNewProject\obj\Debug\netcoreapp3.1\MyNewProject.csproj.CoreCompileInputs.cache
+D:\vishwa C#\MyNewProject\MyNewProject\obj\Debug\netcoreapp3.1\MyNewProject.dll
+D:\vishwa C#\MyNewProject\MyNewProject\obj\Debug\netcoreapp3.1\MyNewProject.pdb
+D:\vishwa C#\MyNewProject\MyNewProject\obj\Debug\netcoreapp3.1\MyNewProject.genruntimeconfig.cache

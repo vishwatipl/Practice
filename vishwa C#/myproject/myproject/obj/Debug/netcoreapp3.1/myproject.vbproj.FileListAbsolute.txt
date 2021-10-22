@@ -1,0 +1,5 @@
+D:\vishwa C#\myproject\myproject\obj\Debug\netcoreapp3.1\myproject.vbproj.AssemblyReference.cache
+D:\vishwa C#\myproject\myproject\obj\Debug\netcoreapp3.1\myproject.GeneratedMSBuildEditorConfig.editorconfig
+D:\vishwa C#\myproject\myproject\obj\Debug\netcoreapp3.1\myproject.AssemblyInfoInputs.cache
+D:\vishwa C#\myproject\myproject\obj\Debug\netcoreapp3.1\myproject.AssemblyInfo.vb
+D:\vishwa C#\myproject\myproject\obj\Debug\netcoreapp3.1\myproject.vbproj.CoreCompileInputs.cache

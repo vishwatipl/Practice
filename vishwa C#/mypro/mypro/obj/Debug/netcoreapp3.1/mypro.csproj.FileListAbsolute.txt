@@ -1,0 +1,14 @@
+D:\vishwa C#\mypro\mypro\bin\Debug\netcoreapp3.1\mypro.exe
+D:\vishwa C#\mypro\mypro\bin\Debug\netcoreapp3.1\mypro.deps.json
+D:\vishwa C#\mypro\mypro\bin\Debug\netcoreapp3.1\mypro.runtimeconfig.json
+D:\vishwa C#\mypro\mypro\bin\Debug\netcoreapp3.1\mypro.runtimeconfig.dev.json
+D:\vishwa C#\mypro\mypro\bin\Debug\netcoreapp3.1\mypro.dll
+D:\vishwa C#\mypro\mypro\bin\Debug\netcoreapp3.1\mypro.pdb
+D:\vishwa C#\mypro\mypro\obj\Debug\netcoreapp3.1\mypro.csproj.AssemblyReference.cache
+D:\vishwa C#\mypro\mypro\obj\Debug\netcoreapp3.1\mypro.GeneratedMSBuildEditorConfig.editorconfig
+D:\vishwa C#\mypro\mypro\obj\Debug\netcoreapp3.1\mypro.AssemblyInfoInputs.cache
+D:\vishwa C#\mypro\mypro\obj\Debug\netcoreapp3.1\mypro.AssemblyInfo.cs
+D:\vishwa C#\mypro\mypro\obj\Debug\netcoreapp3.1\mypro.csproj.CoreCompileInputs.cache
+D:\vishwa C#\mypro\mypro\obj\Debug\netcoreapp3.1\mypro.dll
+D:\vishwa C#\mypro\mypro\obj\Debug\netcoreapp3.1\mypro.pdb
+D:\vishwa C#\mypro\mypro\obj\Debug\netcoreapp3.1\mypro.genruntimeconfig.cache
