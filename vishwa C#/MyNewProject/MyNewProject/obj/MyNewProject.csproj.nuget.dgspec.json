@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\vishwa C#\\MyNewProject\\MyNewProject\\MyNewProject.csproj": {}
+    "D:\\github\\Practice\\vishwa C#\\MyNewProject\\MyNewProject\\MyNewProject.csproj": {}
   },
   "projects": {
-    "D:\\vishwa C#\\MyNewProject\\MyNewProject\\MyNewProject.csproj": {
+    "D:\\github\\Practice\\vishwa C#\\MyNewProject\\MyNewProject\\MyNewProject.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\vishwa C#\\MyNewProject\\MyNewProject\\MyNewProject.csproj",
+        "projectUniqueName": "D:\\github\\Practice\\vishwa C#\\MyNewProject\\MyNewProject\\MyNewProject.csproj",
         "projectName": "MyNewProject",
-        "projectPath": "D:\\vishwa C#\\MyNewProject\\MyNewProject\\MyNewProject.csproj",
+        "projectPath": "D:\\github\\Practice\\vishwa C#\\MyNewProject\\MyNewProject\\MyNewProject.csproj",
         "packagesPath": "C:\\Users\\TIPL-User\\.nuget\\packages\\",
-        "outputPath": "D:\\vishwa C#\\MyNewProject\\MyNewProject\\obj\\",
+        "outputPath": "D:\\github\\Practice\\vishwa C#\\MyNewProject\\MyNewProject\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\TIPL-User\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -54,7 +54,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.401\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.402\\RuntimeIdentifierGraph.json"
         }
       }
     }
