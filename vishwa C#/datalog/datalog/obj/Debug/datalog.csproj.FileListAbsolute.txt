@@ -1,0 +1,2 @@
+D:\github\Practice\vishwa C#\datalog\datalog\obj\Debug\datalog.csproj.AssemblyReference.cache
+D:\github\Practice\vishwa C#\datalog\datalog\obj\Debug\datalog.csproj.CoreCompileInputs.cache

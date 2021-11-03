@@ -1,0 +1,9 @@
+D:\github\Practice\vishwa C#\tiplLoginSingup\tiplmodel\bin\Debug\tiplmodel.dll
+D:\github\Practice\vishwa C#\tiplLoginSingup\tiplmodel\bin\Debug\tiplmodel.pdb
+D:\github\Practice\vishwa C#\tiplLoginSingup\tiplmodel\bin\Debug\tipldl.dll
+D:\github\Practice\vishwa C#\tiplLoginSingup\tiplmodel\bin\Debug\tipldl.pdb
+D:\github\Practice\vishwa C#\tiplLoginSingup\tiplmodel\obj\Debug\tiplmodel.csproj.AssemblyReference.cache
+D:\github\Practice\vishwa C#\tiplLoginSingup\tiplmodel\obj\Debug\tiplmodel.csproj.CoreCompileInputs.cache
+D:\github\Practice\vishwa C#\tiplLoginSingup\tiplmodel\obj\Debug\tiplmodel.csproj.CopyComplete
+D:\github\Practice\vishwa C#\tiplLoginSingup\tiplmodel\obj\Debug\tiplmodel.dll
+D:\github\Practice\vishwa C#\tiplLoginSingup\tiplmodel\obj\Debug\tiplmodel.pdb
